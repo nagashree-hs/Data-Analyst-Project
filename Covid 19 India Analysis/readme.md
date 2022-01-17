@@ -2,9 +2,11 @@
 
 ## Data collection: 
 The Statewise Infection and Vaccination Data was obtained from Coronavirus in India: https://data.incovid19.org/
+
 This is in the form of CSV files.
 
 states: Consists of statewise count of Covid-19 infected patients in India
+
 cowin_vaccine_data_statewise: Consists of statewise count of vaccinated individuals in India
 
 ## Data cleaning: 
